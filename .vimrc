@@ -3,7 +3,7 @@
 " CONFIGURACION VIM
 " ==================
 let g:license = "GPLv3+"
-let g:email = "Sergio.Cubero[AT]uv[DOT]es"
+let g:email = ""
 let g:username = "Sergio Cubero"
 set nocompatible
 "==================

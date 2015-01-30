@@ -4,7 +4,7 @@
 " ==================
 let g:license = "GPLv3+"
 let g:email = ""
-let g:username = "Sergio Cubero"
+let g:username = ""
 set nocompatible
 "==================
 " COLORES y THEME
